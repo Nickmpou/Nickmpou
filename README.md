@@ -1,7 +1,11 @@
 👋 Hello, I'm Nick Bouras (@Nickmpou)!
+
 🎓 About Me
+
 👨‍🎓 I am a Business Administration graduate from Toulouse Capitole 1 University in France.
+
 💼 I am currently looking for opportunities as a Junior Product Manager or Consultant in IT/Tech companies.
+
 🧠 I am passionate about project management, product improvement, and data analysis, with a strong focus on leveraging technology to enhance business processes.
 
 💻 What I Do
